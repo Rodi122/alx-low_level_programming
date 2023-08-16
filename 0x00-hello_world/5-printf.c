@@ -4,11 +4,12 @@
  *
  *Return: 0
  *
- *Descripitions: Print the last digit of the number stored in the variable
+ *Descripitions: 
  */
 
 int main(void)
 	{
-	printf("with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of ar\t,");
 	return (0);
 	}
+
