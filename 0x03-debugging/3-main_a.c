@@ -1,4 +1,4 @@
-#include <stdio.h>
+:wq#include <stdio.h>
 #include "main.h"
 
 /**
