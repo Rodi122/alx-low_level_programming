@@ -1,7 +1,4 @@
-#More pointers, arrays and strings.
-
-#TASKS
-
+0x06. C - More pointers, arrays and strings
 0. strcat
 
 Write a function that concatenates two strings.
@@ -31,7 +28,6 @@ Your function should work exactly like strncpy
 FYI: The standard library provides a similar function: strncpy. Run man strncpy to learn more.
 
 3. strcmp
-
 Write a function that compares two strings.
 
 Prototype: int _strcmp(char *s1, char *s2);
@@ -105,7 +101,7 @@ You are not allowed to use ,
     You are not allowed to code anything else than the line of expected line of code at the expected line
     Your code should be written at line 19, before the ;
     Do not remove anything from the initial code (not even the comments)
-	and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
+and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
 	You are allowed to use the standard library
 
 	11. It is the addition of strangeness to beauty that constitutes the romantic character in art
